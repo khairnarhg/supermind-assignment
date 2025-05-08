@@ -3,6 +3,7 @@
 
 [![Deploy](https://img.shields.io/badge/Deployed%20App-Click%20Here-blue)](https://socialytix-kappa.vercel.app/)
 [![Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://www.youtube.com/watch?v=DUSaSaHtjDQ)
+The chatbot might not work due to expiration of API Keys involved.
 
 **Socialytics** is an AI-driven analytics platform designed to help content creators, marketers, and brands understand and optimize their social media performance. From global KPIs to real-time tracking and intelligent chatbot support, Socialytics transforms raw data into actionable insights.
 
