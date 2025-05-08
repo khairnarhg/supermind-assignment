@@ -68,7 +68,7 @@ The chatbot might not work due to expiration of API Keys involved.
 
 ## Getting Started Locally
 ```bash
-git clone https://github.com/yourusername/socialytics.git
+git clone https://github.com/khairnarhg/socialytics.git
 cd socialytics
 
 cd frontend
